@@ -1,6 +1,7 @@
 # SDK Android - Widgets
 
 Este ejemplo solo sirve para demostrar que los componentes propios del SDK Android de Smart, no es compatible con los elementos y funcionalidad de un Widget.
+
 Como referencia los elementos permitidos en Widgets para la versión 4.2 de Android son:
 
  * Layouts:
